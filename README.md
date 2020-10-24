@@ -6,7 +6,7 @@ I focus on writing great JavaScript that won't be a nightmare for people in a fe
 
 I currently work for [SimpleClick](https://www.simpleclick.co.uk/) where we make top notch websites, apps and other digital things :metal:.
 
-If you're looking to contact me then google `matt123miller` and I'll show up on every platform. Or you can look at my website [www.matt123miller.dev](www.matt123miller.dev) 
+If you're looking to contact me then search for `matt123miller` on the interwebs and I'll show up on every platform. Or you can look at my website [www.matt123miller.dev](www.matt123miller.dev) 
 
 <!--
 **matt123miller/matt123miller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
